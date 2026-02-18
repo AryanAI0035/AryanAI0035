@@ -1,6 +1,6 @@
 ### Hi there, I'm Aryan Shukla! 👋
 
-I am a 2nd-year **B.Tech Artificial Intelligence** student at **NIT Rourkela**.
+I am a 2nd-year **B.Tech Artificial Intelligence** student.
 
 - 🔭 I’m currently working on **Digital Heritage Preservation using Gaussian Splatting**.
 - 🔬 I’m looking for research internships in **Efficient ML** and **GenAI**.
