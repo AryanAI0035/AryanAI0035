@@ -12,4 +12,4 @@ I am a 2nd-year **B.Tech Artificial Intelligence** student.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 📫 **Reach me at:** 124ai0035l@nitrkl.ac.in 
+- 📫 **Reach me at:** arysnshukla11131@gmail.com 
